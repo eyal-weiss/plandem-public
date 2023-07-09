@@ -2,7 +2,6 @@ __pycache__/
 /output.sas
 /sas_plan
 /sas_plan.*
-*.pddl
 /builds/
 /experiments/issue*2022_paper/.venv/
 /experiments/issue*2022_paper/data/
@@ -10,4 +9,3 @@ __pycache__/
 /misc/autodoc/downward-xmlrpc.secret
 .vscode/
 texput.log
-

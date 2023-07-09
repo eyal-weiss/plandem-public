@@ -4,7 +4,7 @@ PlanDEM is a research project, developed at Bar-Ilan University,
 that aims to build a domain-independent classical planning system
 which uses dynamically estimated action models.
 It is based on the Fast Downward planning system,
-with modifications that support dynamic action model estimatation.
+with modifications that support dynamic action model estimation.
 
 Copyright 2021--2023 PlanDEM contributors (see below).
 
