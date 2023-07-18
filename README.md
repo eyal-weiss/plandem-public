@@ -31,8 +31,8 @@ The following list includes all people that actively contributed to PlanDEM.
 
 ## Contact 
 
-Eyal: eyal.weiss@biu.ac.il, https://sites.google.com/view/eyal-weiss
-Gal: galk@cs.biu.ac.il, https://u.cs.biu.ac.il/~kaminkg/
+- Eyal: eyal.weiss@biu.ac.il, https://sites.google.com/view/eyal-weiss
+- Gal: galk@cs.biu.ac.il, https://u.cs.biu.ac.il/~kaminkg/
 
 ## Papers
 
