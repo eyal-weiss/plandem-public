@@ -32,7 +32,7 @@ The following list includes all people that actively contributed to PlanDEM.
 ## Papers
 
 - Planning with Multiple Action-Cost Estimates, Eyal Weiss and Gal A. Kaminka, ICAPS 2023
-- A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates, Eyal Weiss, Ariel Felner and Gal A. Kaminka, ICAPS RDDPS Workshop 2023
+- A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates, Eyal Weiss, Ariel Felner and Gal A. Kaminka, ECAI 2023
 
 Relevant information appears in directories with the same name.
 
