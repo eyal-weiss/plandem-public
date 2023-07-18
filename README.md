@@ -13,7 +13,7 @@ For further information:
 - Fast Downward website: <http://www.fast-downward.org>
 
 
-## Tested software versions
+## Tested Software Versions
 
 This version of PlanDEM is tested with the following software versions:
 
@@ -28,6 +28,11 @@ The following list includes all people that actively contributed to PlanDEM.
 
 - 2021--2023 Eyal Weiss
 - 2021--2023 Gal A. Kaminka
+
+## Contact 
+
+Eyal: eyal.weiss@biu.ac.il, https://sites.google.com/view/eyal-weiss
+Gal: galk@cs.biu.ac.il, https://u.cs.biu.ac.il/~kaminkg/
 
 ## Papers
 
