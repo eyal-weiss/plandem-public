@@ -1,5 +1,7 @@
 # PlanDEM
 
+> **Status (March 2026):** This project is under active development — we are currently working on extending this line of research. More updates to follow soon!
+
 PlanDEM is a research project, developed at Bar-Ilan University,
 that aims to build a domain-independent classical planning system
 which uses dynamically estimated action models.
